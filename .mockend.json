@@ -4,5 +4,11 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date"
+  },
+  "Post2": {
+    "title": "qwewqeqwe",
+    "views": "111",
+    "published": "true",
+    "createdAt": "date"
   }
 }
